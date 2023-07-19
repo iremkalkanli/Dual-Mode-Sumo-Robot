@@ -1,5 +1,5 @@
 
-# Sumo and Line Follower Robot
+# Dual-Mode Sumo Robot
 
 It is a sumo robot with two modes. </br>
 While being able to remove 5 obstacles for 60 seconds is one mode, the other mode is to follow the line.
